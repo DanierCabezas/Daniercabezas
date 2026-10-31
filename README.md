@@ -1,16 +1,38 @@
-## Hi there 👋
+# ¡Hola! Bienvenido
 
-<!--
-**DanierCabezas/Daniercabezas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Analista de Datos en formación
 
-Here are some ideas to get you started:
+Estoy desarrollando mis habilidades en análisis de datos, programación y gestión de información. Me interesa transformar datos en información útil que facilite la comprensión de problemas y la toma de decisiones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y herramientas
+
+- **Python:** fundamentos de programación y manejo de archivos.
+- **SQL:** consultas y gestión de información en bases de datos.
+- **Excel:** organización y análisis de datos.
+
+### 📚 Actualmente estoy aprendiendo
+
+- Lectura y escritura de archivos TXT y CSV.
+- Limpieza y transformación de datos.
+- Análisis exploratorio de datos.
+- Visualización de información.
+- Automatización de procesos con Python.
+
+### 🎯 Objetivos
+
+- Desarrollar proyectos prácticos de análisis de datos.
+- Fortalecer mis conocimientos en Python y SQL.
+- Aprender herramientas de visualización.
+- Construir soluciones basadas en datos.
+
+### 📂 Proyectos
+
+Actualmente estoy preparando mis primeros proyectos para construir un portafolio práctico y documentado.
+
+### 📫 Contacto
+
+- GitHub: [@DanierCabezas](https://github.com/DanierCabezas)
+
+---
+
+*Aprendiendo, practicando y construyendo proyectos, un dato a la vez.*
